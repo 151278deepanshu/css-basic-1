@@ -1,0 +1,36 @@
+.box{
+    border: 2px solid black;
+    height: 200px;
+    width: 200px;
+    padding: 2px;
+    margin-top: 20px;
+    background-image: linear-gradient(yellow,pink, rgb(0, 255, 225));
+   
+}
+div{
+    display: block;
+}
+#box2{
+    position: absolute;
+    left: 170px;
+    top: 25px;
+
+}
+#box3{
+    
+    position: absolute;
+    left: 100px;
+    bottom: 500px;
+
+    
+}
+#box4{
+    position: absolute;
+    left: 12px;
+    bottom: 390px;
+}
+#box5{
+    position: absolute;
+    left: 170px;
+    bottom: 390px;
+}
